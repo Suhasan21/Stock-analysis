@@ -92,3 +92,13 @@ A comprehensive stock market analysis and visualization dashboard built with **S
 For additional offline or interactive analysis, use the included `Stock Analysis.pbix` Power BI file.
 
 ---
+## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/c9466524-1f7c-4a25-8e7e-e4aa46170e38)
+![image](https://github.com/user-attachments/assets/6afb68c5-bea8-45e7-9e64-fdccdd56edcb)
+![image](https://github.com/user-attachments/assets/7fdd7e49-3417-4c3f-8a70-f497a202ff92)
+![image](https://github.com/user-attachments/assets/4bd78e74-21fb-4b90-8bc9-79587fe46b97)
+![image](https://github.com/user-attachments/assets/4ec16255-b340-41a9-88b0-acfca949059e)
+
+
+
+
